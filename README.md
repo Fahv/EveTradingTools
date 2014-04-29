@@ -5,7 +5,7 @@ An application that I use to make trading easier.
 
 
 Features
- - [ ] API Import
+ - [ ]API Import
  - [ ]Eve Market Data Relay
  - [ ]Suggest items based on current station
  - [ ]Profit per item
@@ -19,4 +19,4 @@ Features
    - [ ]Item
    - [ ]Category
    - [ ]Total Wallet
-   - [ ] Total Profit
+   - [ ]Total Profit
